@@ -1,0 +1,3 @@
+google-cloud-storage
+apache-beam[gcp]
+google-cloud-dataflow

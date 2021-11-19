@@ -1,0 +1,7 @@
+SELECT 
+    COUNT(*)
+FROM 
+    `irisdataset.iris_data`
+WHERE species LIKE 'Iris-virginia' 
+AND sepal_width > 3 
+AND petal_length < 2
